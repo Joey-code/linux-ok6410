@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/sharelinux/dht11_OK6410/dht11_ok6410.ko := arm-linux-ld -EL -r  -T /home/yjj/linux/linux-3.0.1/scripts/module-common.lds --build-id  -o /mnt/hgfs/sharelinux/dht11_OK6410/dht11_ok6410.ko /mnt/hgfs/sharelinux/dht11_OK6410/dht11_ok6410.o /mnt/hgfs/sharelinux/dht11_OK6410/dht11_ok6410.mod.o

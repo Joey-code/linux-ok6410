@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/sharelinux/button1/key.ko := arm-linux-ld -EL -r  -T /home/yjj/linux/linux-3.0.1/scripts/module-common.lds --build-id  -o /mnt/hgfs/sharelinux/button1/key.ko /mnt/hgfs/sharelinux/button1/key.o /mnt/hgfs/sharelinux/button1/key.mod.o

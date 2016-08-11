@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/sharelinux/ok6410key_led/key_modules.ko := arm-linux-ld -EL -r  -T /home/yjj/linux/linux-3.0.1/scripts/module-common.lds --build-id  -o /mnt/hgfs/sharelinux/ok6410key_led/key_modules.ko /mnt/hgfs/sharelinux/ok6410key_led/key_modules.o /mnt/hgfs/sharelinux/ok6410key_led/key_modules.mod.o
